@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/apps/admin_apps/melos_admin_apps.iml" filepath="$PROJECT_DIR$/apps/admin_apps/melos_admin_apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/auth/melos_auth.iml" filepath="$PROJECT_DIR$/features/auth/melos_auth.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/data/melos_data.iml" filepath="$PROJECT_DIR$/shared/data/melos_data.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/dependencies/melos_dependencies.iml" filepath="$PROJECT_DIR$/shared/dependencies/melos_dependencies.iml" />
+      <module fileurl="file://$PROJECT_DIR$/features/home_page/melos_home_page.iml" filepath="$PROJECT_DIR$/features/home_page/melos_home_page.iml" />
+      <module fileurl="file://$PROJECT_DIR$/apps/user_apps/melos_user_apps.iml" filepath="$PROJECT_DIR$/apps/user_apps/melos_user_apps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/shared/widget/melos_widget.iml" filepath="$PROJECT_DIR$/shared/widget/melos_widget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/melos_monorepo_flutter_project.iml" filepath="$PROJECT_DIR$/melos_monorepo_flutter_project.iml" />
+    </modules>
+  </component>
+</project>

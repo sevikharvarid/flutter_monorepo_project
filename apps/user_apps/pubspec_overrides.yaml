@@ -1,0 +1,6 @@
+# melos_managed_dependency_overrides: dependencies,widget
+dependency_overrides:
+  dependencies:
+    path: ../../shared/dependencies
+  widget:
+    path: ../../shared/widget

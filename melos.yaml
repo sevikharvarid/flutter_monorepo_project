@@ -1,0 +1,27 @@
+name: Monorepo_Flutter_Project
+
+packages:
+  - apps/**
+  - shared/**
+  - core/**
+  - assets/**
+  - features/**
+  - "*"
+
+command:
+  bootstrap:
+    usePubspecOverrides: true
+
+scripts:
+  run_admin:
+    exec: flutter run lib/main.dart
+  run_user:
+    exec: flutter run lib/main.dart
+  analyze:
+    exec: flutter analyze .
+  outdated:
+    exec: flutter pub outdated
+  test:
+    exec: flutter test
+
+sdkPath: /Users/s000-50104342/dev/flutter
